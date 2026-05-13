@@ -62,3 +62,28 @@ After installation, you can call the encoder from any terminal window using the 
 panda-encode "your-payload-here"
 Example:
 panda-encode "<script>alert('BP-LABS')</script>"
+
+
+
+
+
+
+# 🐼 BlackPanda Labs
+**Independent Collective for Offensive Security & Red Teaming**
+
+We don't just use tools; we architect them. BlackPanda Labs is a specialized research unit focused on the future of exploitation and automated offensive infrastructure.
+
+### 🚀 Future Operations
+- **Project Panda-CTF:** Our proprietary internal CTF platform (Under Development).
+- **AD Domination Labs:** Scaling simulated environments for Active Directory exploitation.
+- **The Armory:** Developing high-performance Red Team tools in Python and C.
+- **Zero-Day Mindset:** Moving the needle from practitioner to vulnerability researcher.
+
+---
+
+### 🛡️ Live Assets
+* 💻 **[Live Research Portal](https://blackpanda-lab-prod-production.up.railway.app/)**
+* 📦 **[Panda-Encoder (NPM)](https://www.npmjs.com/package/@blackpanda-labs/panda-encoder)**
+* 📡 **[Join the Staging Area (WhatsApp)](https://chat.whatsapp.com/EHxUeKcbR0Q7VLkLRsZKoH)**
+
+// No shortcuts. No handouts. Just pure offensive mastery.
