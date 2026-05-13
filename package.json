@@ -1,0 +1,14 @@
+{
+  "name": "@blackpanda-labs/panda-encoder",
+  "version": "1.0.0",
+  "description": "Payload encoder for Red Team WAF bypass testing.",
+  "main": "index.js",
+  "bin": {
+    "panda-encode": "./index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": "Debojit Singh",
+  "license": "MIT"
+}
