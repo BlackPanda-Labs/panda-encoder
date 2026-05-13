@@ -1,10 +1,14 @@
-# 🐼 panda-encoder | BlackPanda Labs
-**Project Status:** Active Research (v1.0.1)  
-**Classification:** Red Team Utility / WAF Evasion
+## 🎯 Features
+- **Base64 Encoding:** Standard obfuscation for data streams.
+- **Hex Encoding:** Bypasses simple string-matching filters.
+- **Double-URL Encoding:** Specifically designed to bypass multi-layer WAF inspection.
 
-## Overview
-A specialized obfuscation utility developed for internal BlackPanda Labs security assessments. This tool automates multi-layer encoding to identify vulnerabilities in Web Application Firewall (WAF) string-matching logic.
+## 🛡️ Attributes & Laboratory Metadata
+- **Lead Researcher:** Debojit Singh
+- **Organization:** BlackPanda Labs
+- **Research Field:** Offensive Security / Evasion Techniques
+- **Tooling Category:** Red Team Utility (RT-01)
+- **License:** MIT
 
-## 🚀 Deployment
-```bash
-npm install -g @blackpanda-labs/panda-encoder
+### **Legal Disclaimer**
+This tool is for educational purposes and authorized security auditing only. BlackPanda Labs and its founders are not responsible for any misuse of this utility. All testing should be performed in a controlled, legal environment.
