@@ -12,3 +12,9 @@
 
 ### **Legal Disclaimer**
 This tool is for educational purposes and authorized security auditing only. BlackPanda Labs and its founders are not responsible for any misuse of this utility. All testing should be performed in a controlled, legal environment.
+
+After installation, you can call the encoder from any terminal window using the panda-encode command followed by your string in quotes:
+
+panda-encode "your-payload-here"
+Example:
+panda-encode "<script>alert('BP-LABS')</script>"
